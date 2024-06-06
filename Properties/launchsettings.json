@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "robotconsole": {
+      "commandName": "Project",
+      "commandLineArgs": "Input1.txt Input2.txt"
+    }
+  }
+}
